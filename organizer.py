@@ -8,7 +8,7 @@ Key features:
 - Add, edit, and delete tasks
 - Create and switch between workspaces
 - Lightweight UI with custom styling
-- Persistent storage in ./files/tasks.db
+- Persistent storage in ./.files/tasks.db
 
 Author: xyz-leo
 """
