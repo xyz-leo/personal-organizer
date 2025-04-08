@@ -19,3 +19,10 @@ Personal Organizer is a minimalistic task management application built with Pyth
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+```
+
+## Building with PyInstaller
+- Use the following command to build a standalone executable on Windows:
+``` Terminal
+pyinstaller --onefile --icon=".files\icon.ico" organizer.py --clean --noconsole
+```
